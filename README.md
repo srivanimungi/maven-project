@@ -13,3 +13,4 @@ Autobuild trigfer on Sai's jenkins server.
 another autobuild on Sai's jenkins server
 Vani chnaged this file
 Maven Project Success
+Trigger automcatically pipeline
